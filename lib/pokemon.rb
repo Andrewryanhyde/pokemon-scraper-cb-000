@@ -18,5 +18,3 @@ class Pokemon
   end
 
 end
-unexpected tIDENTIFIER, expecting keyword_do or '{' or '(' (Synt
-axError)
